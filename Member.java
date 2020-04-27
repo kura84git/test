@@ -1,4 +1,6 @@
 import java.util.Random;
+
+import member.Mem;
 public class Member{
   public static void main(String[] args){
     String[][] result = new String[2][4];
